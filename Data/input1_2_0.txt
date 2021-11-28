@@ -1,0 +1,23 @@
+11 13
+0 3 7
+1 5 7
+2 5 4
+3 1 2
+3 2 3
+4 9 2
+5 4 2
+5 6 5
+6 9 10
+7 10 2
+8 10 2
+9 7 8
+9 8 7
+
+Distanze dalla sorgente 0:
+0 9 10 7 18 16 21 39 38 31 41
+
+Distanze dalla sorgente 1:
+INF 0 INF INF 9 7 12 30 29 22 32
+
+Distanze dalla sorgente 2:
+INF INF 0 INF 6 4 9 27 26 19 29

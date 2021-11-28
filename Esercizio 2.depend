@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1614003321 source:c:\users\utente\desktop\esercizio 2\main.cpp
+	"Servizio.hpp"
+	<iostream>
+
+1614003004 c:\users\utente\desktop\esercizio 2\servizio.hpp
+	"Graph.hpp"
+	<string>
+
+1614009614 c:\users\utente\desktop\esercizio 2\graph.hpp
+	<set>
+	<vector>
+
+1614009622 source:c:\users\utente\desktop\esercizio 2\graph-methods.cpp
+	"Graph.hpp"
+	<iostream>
+	<queue>
+	<vector>
+	<set>
+	<climits>
+	<iterator>
+
+1613840499 c:\users\utente\desktop\esercizio 2\graph-methods.cpp
+	"Graph.hpp"
+
+1614003404 source:c:\users\utente\desktop\esercizio 2\servizio-methods.cpp
+	"Servizio.hpp"
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+
+1618209175 source:c:\users\utente\desktop\codice sorgente\esercizio 2\graph-methods.cpp
+	"Graph.hpp"
+	<iostream>
+	<queue>
+	<vector>
+	<set>
+	<climits>
+	<iterator>
+
+1613980870 c:\users\utente\desktop\codice sorgente\esercizio 2\graph.hpp
+	<set>
+	<vector>
+
+1613974520 source:c:\users\utente\desktop\codice sorgente\esercizio 2\main.cpp
+	"Servizio.hpp"
+	<iostream>
+
+1613974204 c:\users\utente\desktop\codice sorgente\esercizio 2\servizio.hpp
+	"Graph.hpp"
+	<string>
+
+1618148282 source:c:\users\utente\desktop\codice sorgente\esercizio 2\servizio-methods.cpp
+	"Servizio.hpp"
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+
+1618743215 source:c:\users\utente\desktop\codice sorgente\percorsi nell'arcipelago\graph-methods.cpp
+	"Graph.hpp"
+	<iostream>
+	<queue>
+	<vector>
+	<set>
+	<climits>
+	<iterator>
+
+1618743010 c:\users\utente\desktop\codice sorgente\percorsi nell'arcipelago\graph.hpp
+	<set>
+	<vector>
+
+1618742670 source:c:\users\utente\desktop\codice sorgente\percorsi nell'arcipelago\main.cpp
+	"Servizio.hpp"
+	<iostream>
+
+1618743039 c:\users\utente\desktop\codice sorgente\percorsi nell'arcipelago\servizio.hpp
+	"Graph.hpp"
+	<string>
+
+1618742742 source:c:\users\utente\desktop\codice sorgente\percorsi nell'arcipelago\servizio-methods.cpp
+	"Servizio.hpp"
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+
