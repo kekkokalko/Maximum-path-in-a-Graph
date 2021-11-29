@@ -1,7 +1,7 @@
 # Maximum-path-in-an-graph
 Finding the longest path in an directed, weighted and acyclic graph.
 
-This is the first part of a project made up by 2 problem. The other problem is "Sets implemented by Red-Black Tree".
+This is the first part of a project made up by 2 problems. The other problem is "Sets implemented by Red-Black Tree". The subject is Algorithms and Data Structures.
 Trace of the problem:
 After the terrible earthquake of December 2019, following huge investments
 economic, the queen of the archipelago of Grapha-Nui has managed to restore the
