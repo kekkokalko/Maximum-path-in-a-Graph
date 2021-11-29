@@ -1,6 +1,7 @@
-# Maximum-path-in-an-archipelago
+# Maximum-path-in-an-graph
 Finding the longest path in an directed, weighted and acyclic graph.
 
+This is the first part of a project made up by 2 problem. The other problem is "Sets implemented by Red-Black Tree".
 Trace of the problem:
 After the terrible earthquake of December 2019, following huge investments
 economic, the queen of the archipelago of Grapha-Nui has managed to restore the
