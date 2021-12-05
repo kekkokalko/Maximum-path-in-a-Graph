@@ -1,6 +1,8 @@
 # Maximum-path-in-an-graph
 Finding the longest path in an directed, weighted and acyclic graph.
 
+![Immagine 2021-12-05 111721](https://user-images.githubusercontent.com/94131849/144742440-f35dae24-570f-47d1-8fc3-e39a559ee225.png)
+
 This is the second part of a project made up by 2 problems. The other problem is "Sets implemented by Red-Black Tree". The subject is Algorithms and Data Structures.
 Trace of the problem:
 After the terrible earthquake of December 2019, following huge investments
@@ -16,6 +18,9 @@ a value (even negative) that measures the quality of the link. The links between
 islands do not give rise to cycles.
 
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~  
+Trovare il cammino massimo in un DAG (Grafo Diretto, aciclico, pesato).
+
+![Immagine 2021-12-05 111721](https://user-images.githubusercontent.com/94131849/144742440-f35dae24-570f-47d1-8fc3-e39a559ee225.png)
 
 Traccia del problema:
 Dopo il terribile terremoto del Dicembre 2019, a seguito di ingenti investimenti
