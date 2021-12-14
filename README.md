@@ -1,5 +1,5 @@
 # Maximum-path-in-an-graph
-Finding the longest path in an directed, weighted and acyclic graph.
+Finding the longest path in a directed, weighted and acyclic graph.
 
 ![Immagine 2021-12-05 111721](https://user-images.githubusercontent.com/94131849/144742440-f35dae24-570f-47d1-8fc3-e39a559ee225.png)
 
